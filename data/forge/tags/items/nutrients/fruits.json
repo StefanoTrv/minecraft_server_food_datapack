@@ -1,6 +1,7 @@
 {
     "replace":false,
     "values": [
-        "beachparty:coconut_open"
+        "beachparty:coconut_open",
+		"vinery:red_grape"
     ]
 }
