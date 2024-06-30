@@ -1,0 +1,10 @@
+{
+    "replace":false,
+    "values": [
+		"brewery:mashed_potatoes",
+		"brewery:corn",
+		"corn_delight:corn_seeds",
+		"corn_delight:corn",
+		"brewery:corn_seeds",
+    ]
+}
