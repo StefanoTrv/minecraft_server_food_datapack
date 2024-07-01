@@ -5,6 +5,8 @@
 		"brewery:corn",
 		"corn_delight:corn_seeds",
 		"corn_delight:corn",
-		"brewery:corn_seeds"
+		"brewery:corn_seeds",
+		"corn_delight:tortilla",
+		"casualness_delight:raw_spring_roll"
     ]
 }
