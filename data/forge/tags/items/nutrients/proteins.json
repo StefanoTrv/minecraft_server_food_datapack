@@ -7,6 +7,15 @@
 		"casualness_delight:raw_spring_roll",
 		"casualness_delight:raw_donkey_meat",
 		"casualness_delight:raw_chicken_bobo_chicken",
-		"eggdelight:boiled_egg"
+		"eggdelight:boiled_egg",
+		"brewery:half_chicken",
+        "create_bic_bit:frikandel",
+        "create_bic_bit:raw_bitterballen",
+        "create_bic_bit:kroket",
+        "create_bic_bit:cheese_souffle",
+        "create_bic_bit:raw_cheese_souffle",
+		"supplementaries:pancake",
+		"minecraft:suspicious_stew",
+		"alexsmobs:kangaroo_burger"
     ]
 }

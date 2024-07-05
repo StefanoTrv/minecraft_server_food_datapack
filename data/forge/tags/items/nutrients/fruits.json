@@ -2,6 +2,8 @@
     "replace":false,
     "values": [
         "beachparty:coconut_open",
-		"vinery:red_grape"
+		"vinery:red_grape",
+		"quark:ancient_fruit",
+		"habitat:kabloom_pulp"
     ]
 }

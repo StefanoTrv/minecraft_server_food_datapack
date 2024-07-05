@@ -1,6 +1,7 @@
 {
     "replace":false,
     "values": [
-        "create_bic_bit:sweet_dough"
+        "create_bic_bit:sweet_dough",
+		"supplementaries:pancake"
     ]
 }

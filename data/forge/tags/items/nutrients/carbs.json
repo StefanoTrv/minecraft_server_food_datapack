@@ -11,6 +11,15 @@
 		"corn_delight:corn",
 		"brewery:barley",
 		"corn_delight:tortilla",
-		"casualness_delight:raw_spring_roll"
+		"casualness_delight:raw_spring_roll",
+		"brewery:gingerbread",
+        "create_bic_bit:frikandel",
+        "create_bic_bit:raw_bitterballen",
+        "create_bic_bit:kroket",
+        "create_bic_bit:cheese_souffle",
+        "create_bic_bit:raw_cheese_souffle",
+		"supplementaries:pancake",
+		"tmted:wheat_flour",
+		"alexsmobs:kangaroo_burger"
     ]
 }
