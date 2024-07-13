@@ -16,6 +16,24 @@
         "create_bic_bit:raw_cheese_souffle",
 		"supplementaries:pancake",
 		"minecraft:suspicious_stew",
-		"alexsmobs:kangaroo_burger"
+		"alexsmobs:kangaroo_burger",
+		"casualness_delight:quiche_lorraine_slice",
+		"casualness_delight:cheese_wheel_slice",
+		"casualness_delight:phantom_dumplings",
+		"casualness_delight:paper_wrapped_fish",
+		"casualness_delight:chicken_bobo_chicken",
+		"corn_delight:nachos_bowl",
+		"create_deepfried:raw_corn_dog",
+		"create_deepfried:calamari",
+		"create_deepfried:raw_panzerotto",
+		"eggdelight:peeled_boiled_egg",
+		"eggdelight:cod_omelet",
+		"eggdelight:salmon_omelet",
+		"eggdelight:omurice",
+		"eggdelight:scrambled_egg",
+		"eggdelight:eggs_benidict",
+		"farmersdelight:brown_mushroom_colony",
+		"farmersdelight:red_mushroom_colony",
+		"delightful:stuffed_cantalupe"
     ]
 }
