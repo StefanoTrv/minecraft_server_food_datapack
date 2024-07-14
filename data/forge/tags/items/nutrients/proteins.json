@@ -19,8 +19,7 @@
 		"casualness_delight:quiche_lorraine_slice",
 		"casualness_delight:cheese_wheel_slice",
 		"casualness_delight:phantom_dumplings",
-		"casualness_delight:paper_wrapped_fish",
-		"casualness_delight:chicken_bobo_chicken",
+		"casualness_delight:bowl_of_paper_wrapped_fish",
 		"corn_delight:nachos_bowl",
 		"create_deepfried:raw_corn_dog",
 		"create_deepfried:calamari",
@@ -33,6 +32,6 @@
 		"eggdelight:eggs_benidict",
 		"farmersdelight:brown_mushroom_colony",
 		"farmersdelight:red_mushroom_colony",
-		"delightful:stuffed_cantalupe"
+		"delightful:stuffed_cantaloupe"
     ]
 }
