@@ -32,6 +32,10 @@
 		"eggdelight:eggs_benidict",
 		"farmersdelight:brown_mushroom_colony",
 		"farmersdelight:red_mushroom_colony",
-		"delightful:stuffed_cantaloupe"
+		"delightful:stuffed_cantaloupe",
+		"corn_delight:taco",
+		"eggdelight:custard",
+		"farmersdelight:cooked_mutton_chops"
+		
     ]
 }
