@@ -33,6 +33,8 @@
 		"eggdelight:eggs_benidict",
 		"delightful:stuffed_cantaloupe",
 		"corn_delight:taco",
-		"farmersdelight:cooked_rice"
+		"farmersdelight:cooked_rice",
+        "create_bic_bit:stamppot_bowl",
+		"barbequesdelight:grilled_potato_skewer"
     ]
 }
